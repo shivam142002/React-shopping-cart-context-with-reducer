@@ -1,5 +1,5 @@
 # React-shopping-cart-context-with-reducer
- live Demo - https://shopping-cart-with-reactjs.netlify.app/
+
 
  • Utilized React Context API with the use Reducer hook for efficient global state management, managing 
     complex state transitions for cart operations and product filtering.
